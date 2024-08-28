@@ -1,6 +1,5 @@
 # Olá, me chamo Stollys!  
-![image](https://github.com/user-attachments/assets/e226e038-29ef-4f40-82de-ab71fbc32159)
-
+![image](https://github.com/user-attachments/assets/7967f086-4d1d-48b6-ac6b-75abbd5de881)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black)
 
 ### :hammer_and_wrench: Languages and Tools
