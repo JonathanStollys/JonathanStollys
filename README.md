@@ -6,3 +6,42 @@
 # Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jonathan-lopes-bb7217292)
+
+### SOBRE MIM 👾
+
+### QUALIFICAÇÕES 👨‍🎓✨ 
+
+Téc em Desenvolvimento de Sistemas - Cursado noite.
+
+CAI - Mecânonico de manutenção industrial - maio de 2024. 🤖
+
+
+
+### ADICIONAIS 🧠⏳
+
+Automação predial e instalação de sistemas automatizados - Senai - 80 horas presenciais
+
+AutoCAD - Intermediário.
+
+Inventory - Intermediário.
+
+Pacote office completo.
+
+Excel - intermediário.
+
+WEB 3.0 - Senai - 20 horas.
+
+DESVENDANDO A BLOKCHAIN - Senai - 20 horas.
+
+Segurança no trabalho - Senai - 14 horas.
+
+### EXPERIÊNCIAS 🤖
+
+Mecânico de manutenção de máquinas em geral - CIA Do Metropolitano de São Paulo - 2 anos.
+
+Auxiliar de manutenção - Basic elevadores - 3 meses 
+
+### DIÁLOGO 
+
+Atualmente procuro uma oportunidade para atuar na área de TI, tive muita experiência na área industrial mas atualmente busco essa "evolução".
+
