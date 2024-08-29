@@ -40,7 +40,7 @@ Auxiliar de manutenção - Basic elevadores - 3 meses
 
 ### DIÁLOGO 
 
-Atualmente procuro uma oportunidade para atuar na área de TI, tive muita experiência na área industrial mas atualmente busco essa "evolução".
+Atualmente procuro uma oportunidade para atuar na área de TI, tive muita experiência na área industrial mas atualmente busco essa "evolução" ingressando ao TI.
 
 ## CONTATOS 
 
