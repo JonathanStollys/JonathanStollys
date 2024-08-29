@@ -1,4 +1,4 @@
-## Olá, pode me chamar de Stollys!  
+## Olá pode me chamar de Stollys!  
 <img src="https://github.com/user-attachments/assets/7967f086-4d1d-48b6-ac6b-75abbd5de881" alt="Meu avatar" width="350" height="345">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Jonathan_Lopes_visitor_badge_simple&left_color=royalblue&right_color=black" alt="Visitor Badge" style="width: 100px; height: auto;">
 
