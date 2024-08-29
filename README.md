@@ -3,9 +3,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Jonathan_Lopes_visitor_badge_simple&left_color=royalblue&right_color=black" alt="Visitor Badge" style="width: 100px; height: auto;">
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/58c1bb0b4dd66b4f7678ea697b5d766d5255c840/github-contribution-grid-snake-dark.svg)
-# Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jonathan-lopes-bb7217292)
 
 ### SOBRE MIM 👾
 
@@ -45,3 +42,10 @@ Auxiliar de manutenção - Basic elevadores - 3 meses
 
 Atualmente procuro uma oportunidade para atuar na área de TI, tive muita experiência na área industrial mas atualmente busco essa "evolução".
 
+## CONTATOS 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jonathan-lopes-bb7217292)
+
+<a href="lopesjonathan113@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
