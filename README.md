@@ -55,3 +55,5 @@ Atualmente procuro uma oportunidade para atuar na área de TI, tive muita experi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jonathan-lopes-bb7217292)
 
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lopesjonathan113gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
