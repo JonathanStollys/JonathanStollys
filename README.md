@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá+pode+me+chamar+de+Stollys!;Tenho+19+anos.;Curso+um+Técnico+em+Desenvolvimento+de+Sistemas.;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+pode+me+chamar+de+Stollys!;Tenho+19+anos.;Curso+um+Técnico+em+Desenvolvimento+de+Sistemas.;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+ 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7967f086-4d1d-48b6-ac6b-75abbd5de881" alt="Meu avatar" width="350" height="345">
   <br>
